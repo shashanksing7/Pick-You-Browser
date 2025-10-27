@@ -42,8 +42,23 @@ Recent versions of Android often force users to set a single default browser, li
 </p>
 
 ---
-
 ## 🧩 Installation
+
+### Option 1: 🔽 Download APK
+You can directly download the latest version of **Pick Your Browser** from the [Releases](https://github.com/yourusername/PickYourBrowser/releases) page.
+
+1. Go to the **[Releases](https://github.com/yourusername/PickYourBrowser/releases)** section.  
+2. Download the latest `.apk` file.  
+3. Install it on your Android device.  
+4. Follow the **Setup & Usage** steps above.
+
+> ⚠️ You may need to enable “Install from Unknown Sources” in your device settings.
+
+---
+
+### Option 2: 🧑‍💻 Build from Source
 
 1. Clone the repository:
    ```bash
+   git clone https://github.com/yourusername/PickYourBrowser.git
+
