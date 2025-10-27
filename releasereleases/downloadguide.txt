@@ -1,0 +1,6 @@
+You can directly download the latest version of Pick Your Browser from the Releases page.
+
+    Go to the Releases section.
+    Download the latest .apk file.
+    Install it on your Android device.
+    Follow the Setup & Usage steps above.
