@@ -38,6 +38,7 @@ Recent versions of Android often force users to set a single default browser, li
 <p align="center">
   <img src="assets/appHome.jpg" alt="App Home" width="30%" style="margin-right:10px;"/>
   <img src="assets/appguide.gif" alt="App Guide" width="30%" style="margin-right:10px;"/>
+  <img src="assets/appPicker.jpg" alt="App Picker" width="30%" style="margin-right:10px;"/>
 </p>
 
 ---
