@@ -44,10 +44,31 @@ Pick-Your-Browser is an Android application that allows users to **retain their 
   - [android-gif-drawable](https://github.com/koral--/android-gif-drawable)  
 
 ---
+## ❤️ Support the Project
 
+Enjoying **Pick-Your-Browser**? Help me keep building useful apps!  
+
+<div align="center">
+
+<a href="https://buymemomo.com/shashanksingh" target="_blank">
+  <img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJaE7qIs0ymAU3mfvyZLprgml05g97WCwpz9SMvOJz4g&s=10"
+    alt="Buy Me a Momo"
+    width="150"
+    height="100"
+    style="height: 100px !important; width: 150px !important; border-radius: 6px; object-fit: contain; display: block; margin: 0 auto;">
+  <p style="margin: 8px 0 0; font-size: 14px; color: #555; text-align: center;">
+    <strong>Support this project — Buy me a Momo! 🇳🇵🥟🍲</strong>
+  </p>
+</a>
+
+</div>
+Your support means a lot — thank you! 🙌
+---
 ## ⚡ Installation
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/shashanksing7/Pick-You-Browser.git
+
